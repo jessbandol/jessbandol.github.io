@@ -4,7 +4,7 @@ type: project
 image: img/sanrio cover.png
 title: "Sanrio"
 date: 2023-08-25
-published: true
+published: false
 labels:
   - Marketing
   - Retail
@@ -14,8 +14,6 @@ summary: "The Sanrio Franchise has been one of the many first Japanese companies
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
 To understand and get along with the people with whom we share our lives, it is important to trust, respect, and love each other. To communicate these feelings is the philosophy that guides Sanrio.

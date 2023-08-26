@@ -12,6 +12,6 @@ labels:
   - MIS
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/sinigang.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../gif/tech.gif">
 
 insert essay

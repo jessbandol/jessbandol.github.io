@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Memories in our Palete"
+title: "Memories in our Palate"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-24
 published: true

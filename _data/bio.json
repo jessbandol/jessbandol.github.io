@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jess Bandol",
-    "label": "Student",
+    "label": "Shidler Undergraduate Student",
     "picture": "https://github.com/jessbandol.png",
     "email": "jmbandol@hawaii.edu",
     "phone": "808-342-5063",
@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "jessbandol", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "jessicabandol", "url": "http://linkedin.com/in/jessica-bandol-b01206222/" },
-      { "network": "twitter", "username": "jessbandol", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "jessbandol", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [

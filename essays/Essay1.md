@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Diving into Business Tech *in progress*"
+title: "Diving into Business Tech"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-24
 published: true

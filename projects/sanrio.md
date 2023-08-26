@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/sanrio cover.png
 title: "Sanrio"
 date: 2023-08-25
 published: true

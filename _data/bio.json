@@ -18,24 +18,24 @@
     { "name": "Event Coordination" },
     { "name": "Entrepreneurship" },
     { "name": "Hotel/Hospitality Industry" },
-    { "name": "Film and Photography" }
+    { "name": "Film/Photography" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "HTML", "Unix", "Visual Studio Code" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Softwares",
+      "keywords": [ "Microsoft Office", "Adobe Premier Pro", "Canva" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems & International Business (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-16",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,10 +43,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "ASUH Executive Office",
+      "position": "Receptionist/Clerk",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -55,11 +55,11 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Thomas Hale Hamilton Library",
+      "position": "Administrative Assistant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
@@ -69,10 +69,10 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "International Student Association",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "President",
+      "startDate": "2022-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
@@ -81,11 +81,11 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "International Business Organization",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Treasurer",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
@@ -96,15 +96,15 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Dean's Lister",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "title": "King Kamehameha Award",
+      "date": "2022",
+      "awarder": "International Student Association",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],

@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jessbandol", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "jessicabandol", "url": "http://linkedin.com/in/jessica-bandol-b01206222/" },
+      { "network": "linkedin", "username": "jessicabandol", "url": "http://linkedin.com/in/jessica-bandol-b01206222/" }
     ]
   },
   "interests": [

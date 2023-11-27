@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Jess Bandol",
+    "label": "Shidler Undergraduate Student",
+    "picture": "https://github.com/jessbandol.png",
+    "email": "jmbandol@hawaii.edu",
+    "phone": "808-342-5063",
+    "website": "https://jessbandol.github.io",
+    "summary": "I am aiming for a Bachelor of Business Administration degree in both Management Information Systems and International Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jessbandol", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "jessicabandol", "url": "http://linkedin.com/in/jessica-bandol-b01206222/" }
+    ]
+  },
+  "interests": [
+    { "name": "Project Management" },
+    { "name": "Event Coordination" },
+    { "name": "Entrepreneurship" },
+    { "name": "Hotel/Hospitality Industry" },
+    { "name": "Film/Photography" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML", "Unix", "Visual Studio Code" ]
+    },
+    {
+      "name": "Softwares",
+      "keywords": [ "Microsoft Office", "Adobe Premier Pro", "Canva" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems & International Business (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-16",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "ASUH Executive Office",
+      "position": "Receptionist/Clerk",
+      "website": "",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "Thomas Hale Hamilton Library",
+      "position": "Administrative Assistant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "International Student Association",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "President",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "International Business Organization",
+      "website": "",
+      "position": "Treasurer",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's Lister",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "King Kamehameha Award",
+      "date": "2022",
+      "awarder": "International Student Association",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
